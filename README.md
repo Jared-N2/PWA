@@ -1,1 +1,2 @@
-# PWA
+# PWA-Homework
+The purpose of this homework was to take starter code and alter it so that it would run in an offline setting. It was a pretty straightforward assignment, all I really did was use code and other examples from previous classwork activites and mini project.
